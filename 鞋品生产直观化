@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T09:36:44.571Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-pAy0z_SJeKfB4c4u-iy" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T09:40:21.542Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TqKx-Vv9gTRg9TCD2aXZ" version="20.2.0" type="github">
   <diagram id="0FjT6JAuaOevQXNu-w0u" name="Page-1">
     <mxGraphModel dx="686" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="5YlN5kL-GUvDBQOjNZ4R-40" value="供应商：选择大类。&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;筛选后，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;显示在右侧大方框中&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="-2170" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="pNs1kSC2rgtf7eyzLd4b-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5YlN5kL-GUvDBQOjNZ4R-41" target="xh0zcgfX5IVJsTIl4uGr-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YlN5kL-GUvDBQOjNZ4R-41" value="鞋体部位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1970" width="120" height="50" as="geometry" />
@@ -129,6 +126,15 @@
         </mxCell>
         <mxCell id="ZjQNq2MGaBQ7_A60ssad-1" value="这种设计模式，&lt;br&gt;还想要求厂商名不重复" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="180" y="-1800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-2" value="电子元件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-3" value="鞋体部位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-4" value="出厂配件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1310" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
