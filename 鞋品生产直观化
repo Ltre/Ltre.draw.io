@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T09:35:09.565Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pFa577rloaNaMQ768KK4" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-23T09:36:44.571Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-pAy0z_SJeKfB4c4u-iy" version="20.2.0" type="github">
   <diagram id="0FjT6JAuaOevQXNu-w0u" name="Page-1">
     <mxGraphModel dx="686" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="pNs1kSC2rgtf7eyzLd4b-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="-1940" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-1" value="这种设计模式，&lt;br&gt;还想要求厂商名不重复" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1800" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
