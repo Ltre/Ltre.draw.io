@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T09:54:40.205Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jfe-bZMfZUqb__y2uHX_" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T10:51:40.187Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4OrR48mYxx85JbUA4V6g" version="20.2.0" type="github">
   <diagram id="0FjT6JAuaOevQXNu-w0u" name="Page-1">
     <mxGraphModel dx="686" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,17 +124,38 @@
         <mxCell id="pNs1kSC2rgtf7eyzLd4b-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="-1940" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZjQNq2MGaBQ7_A60ssad-1" value="这种设计模式，&lt;br&gt;还想要求厂商名不重复" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-1" value="这种设计模式，&lt;br&gt;还想要求厂商名不重复" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="180" y="-1800" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZjQNq2MGaBQ7_A60ssad-2" value="电子元件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-2" value="电子元件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1450" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZjQNq2MGaBQ7_A60ssad-3" value="鞋体部位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-3" value="鞋体部位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1380" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZjQNq2MGaBQ7_A60ssad-4" value="出厂配件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZjQNq2MGaBQ7_A60ssad-4" value="出厂配件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-1" value="选择大类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1450" width="640" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-4" value="振动天线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-5" value="地磁传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-6" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-8" value="选择标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
