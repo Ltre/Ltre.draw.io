@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T11:42:30.480Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TK3nzLqyqB8z5gW3V1GL" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T11:44:20.656Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1sIlfHT1mh8C6p6TRKLO" version="20.2.0" type="github">
   <diagram id="0FjT6JAuaOevQXNu-w0u" name="Page-1">
     <mxGraphModel dx="686" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
           <mxGeometry x="40" y="-1100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="99uVDjQei83PsoxdXJr_-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1000" width="780" height="430" as="geometry" />
+          <mxGeometry x="40" y="-1000" width="780" height="460" as="geometry" />
         </mxCell>
         <mxCell id="99uVDjQei83PsoxdXJr_-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="-990" width="760" height="200" as="geometry" />
@@ -240,6 +240,15 @@
             <mxPoint x="330" y="-1160" as="sourcePoint" />
             <mxPoint x="380" y="-1210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-40" value="性别/颜色/码数/双数：多行填写&lt;br&gt;。。。&lt;br&gt;。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-770" width="760" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-630" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99uVDjQei83PsoxdXJr_-42" value="附件1.pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
